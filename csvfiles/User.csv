@@ -1,0 +1,15 @@
+user_id,date_created,password,first_name,last_name,date_of_birth,ethnicity
+1,2015-01-21,Hello123,John,Doe,2001-01-21,Chinese
+2,2015-03-18,pass123,Mike,Smith,1999-04-17,Chinese
+3,2015-08-05,p123456,Karen,Davis,1996-08-03,Chinese
+4,2016-02-15,p123456789,Morgan,John,2002-06-07,Chinese
+5,2016-03-05,picture1,Mary,James,2002-11-21,Chinese
+6,2014-07-05,p12345678,Jeff,Bezos,1964-01-12,Chinese
+7,2015-07-01,p111111,Elon,Musk,1971-06-28,Japanese
+8,2016-04-01,p123123,Tim,Cook,1960-11-01,Japanese
+9,2016-08-21,p12345,Jake,Paul,1997-01-17,Japanese
+10,2015-09-30,p1234567890,Cristiano,Ronaldo,1985-02-05,Japanese
+11,2014-06-11,senha,Selena,Gomez,1992-07-22,Japanese
+12,2015-01-01,bot1pass,Bot,One,2000-01-01,Japanese
+13,2015-01-01,bot2pass,Bot,Two,2000-01-01,Japanese
+14,2015-01-01,bot3pass,Bot,Three,2000-01-01,Japanese
